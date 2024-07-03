@@ -1,0 +1,28 @@
+{
+    "displayName": "Data Management Demo",
+    "name": "data-management-demo",
+    "description": "This Onboarding App wll help users to familiarize themselves with the fundamental functionalities of various tabs in the dataset browser.",
+    "scope": "public",
+    "version": "0.0.6",
+    "codebase": {
+        "type": "git",
+        "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+        "gitTag": "0.0.6"
+    },
+    "attributes": {
+        "Provider": "Dataloop",
+        "Category": "Onboarding",
+        "Onboarding Category": "Data Management",
+        "Onboarding Card": "Use Dataloop Example"
+    },
+    "metadata": {
+        "system": {
+            "systemCompute": true
+        }
+    },
+    "dependencies": [
+        {
+            "name": "data-management-demo-dataset"
+        }
+    ]
+}
