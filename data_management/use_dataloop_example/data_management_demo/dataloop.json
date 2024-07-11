@@ -12,7 +12,7 @@
     "attributes": {
         "Provider": "Dataloop",
         "Category": "Onboarding",
-        "Onboarding Category": "Data Management",
+        "Onboarding Tab": "Data Management",
         "Onboarding Card": "Use Dataloop Example"
     },
     "metadata": {
