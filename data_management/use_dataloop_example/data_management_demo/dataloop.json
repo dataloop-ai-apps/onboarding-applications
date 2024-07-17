@@ -13,7 +13,9 @@
         "Provider": "Dataloop",
         "Category": "Onboarding",
         "Onboarding Tab": "Data Management",
-        "Onboarding Card": "Use Dataloop Example"
+        "Onboarding Card": "Use Dataloop Example",
+        "Media Type": "Image",
+        "Annotation Type": "Bounding Box"
     },
     "metadata": {
         "system": {
