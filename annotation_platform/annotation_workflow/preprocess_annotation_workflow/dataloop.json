@@ -1,6 +1,6 @@
 {
-  "displayName": "Annotation Workflow Demo",
-  "name": "annotation-workflow-demo",
+  "displayName": "Preprocess Annotation Workflow",
+  "name": "annotation-workflow-demo2",
   "description": "This Onboarding App will help users get familiar with the fundamental functionalities of various annotation workflows.",
   "scope": "public",
   "version": "1.0.7",
@@ -22,13 +22,7 @@
   },
   "dependencies": [
     {
-      "name": "preprocessed_dataset_labeling_workflow"
-    },
-    {
-      "name": "preprocessed_text_labeling_workflow"
-    },
-    {
-      "name": "labeling_and_qa_workflow"
+      "name": "preprocess_annotation_workflow"
     }
   ]
 }
