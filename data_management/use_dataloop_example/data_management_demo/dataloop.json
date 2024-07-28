@@ -1,30 +1,30 @@
 {
-    "displayName": "Data Management Demo",
-    "name": "data-management-demo",
-    "description": "This Onboarding App wll help users to familiarize themselves with the fundamental functionalities of various tabs in the dataset browser.",
-    "scope": "public",
-    "version": "1.0.9",
-    "codebase": {
-        "type": "git",
-        "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-        "gitTag": "1.0.9"
-    },
-    "attributes": {
-        "Provider": "Dataloop",
-        "Category": "Onboarding",
-        "Onboarding Tab": "Data Management",
-        "Onboarding Card": "Use Dataloop Example",
-        "Media Type": "Image",
-        "Annotation Type": "Bounding Box"
-    },
-    "metadata": {
-        "system": {
-            "systemCompute": true
-        }
-    },
-    "dependencies": [
-        {
-            "name": "data-management-demo-dataset"
-        }
-    ]
+  "displayName": "Data Management Demo",
+  "name": "data-management-demo",
+  "description": "A general images dataset to get you familiarized with Dataloop's powerful data-management tools, including embeddings, query language, folders, versioning and more",
+  "scope": "public",
+  "version": "1.0.9",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.9"
+  },
+  "attributes": {
+    "Provider": "Dataloop",
+    "Category": "Onboarding",
+    "Onboarding Tab": "Data Management",
+    "Onboarding Card": "Use Dataloop Example",
+    "Media Type": "Image",
+    "Annotation Type": "Bounding Box"
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "data-management-demo-dataset"
+    }
+  ]
 }
