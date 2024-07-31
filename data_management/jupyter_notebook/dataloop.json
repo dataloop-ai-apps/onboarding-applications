@@ -1,0 +1,29 @@
+{
+  "displayName": "Jupyter Notebook App",
+  "name": "jupyter-notebook-app",
+  "description": "Jupyter Notebook App for Users to Learn and Explore the Dataloop SDK",
+  "scope": "public",
+  "version": "1.0.10",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.10"
+  },
+  "attributes": {
+    "Provider": "Dataloop",
+    "Category": "Onboarding",
+    "Onboarding Tab": "Data Management",
+    "Onboarding Card": "Programmatically Connect Your Data",
+    "Media Type": ["All Media Types"]
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "jupyter-notebook"
+    }
+  ]
+}
