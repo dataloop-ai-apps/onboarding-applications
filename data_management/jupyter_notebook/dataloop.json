@@ -23,7 +23,7 @@
   },
   "dependencies": [
     {
-      "name": "jupyter-notebook"
+      "name": "jupyter-notebook-onboarding"
     }
   ]
 }
