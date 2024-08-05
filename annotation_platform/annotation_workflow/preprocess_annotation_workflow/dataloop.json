@@ -3,17 +3,18 @@
   "name": "annotation-workflow-demo2",
   "description": "This Onboarding App will help users get familiar with the fundamental functionalities of various annotation workflows.",
   "scope": "public",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.7"
+    "gitTag": "1.0.10"
   },
   "attributes": {
     "Provider": "Dataloop",
     "Category": "Onboarding",
     "Onboarding Category": "Annotation Platform",
-    "Onboarding Card": "Annotation Tools"
+    "Onboarding Card": "Annotation Tools",
+    "Media Type": ["All Media Types"]
   },
   "metadata": {
     "system": {
