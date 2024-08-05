@@ -1,7 +1,7 @@
 {
-  "displayName": "Text Annotation Workflow",
+  "displayName": "Annotation Workflow Demo 3",
   "name": "annotation-workflow-demo3",
-  "description": "This Onboarding App will help users get familiar with the fundamental functionalities of various annotation workflows.",
+  "description": "This Onboarding App will help to get familiar with the fundamental functionalities of an annotation workflow specifically for text, in Dataloop platform.",
   "scope": "public",
   "version": "1.0.10",
   "codebase": {
@@ -14,6 +14,7 @@
     "Category": "Onboarding",
     "Onboarding Tab": "Annotation Platform",
     "Onboarding Card": "Annotation Workflow",
+    "Pipeline Type": "Labeling Workflow",
     "Media Type": ["Text"]
   },
   "metadata": {
