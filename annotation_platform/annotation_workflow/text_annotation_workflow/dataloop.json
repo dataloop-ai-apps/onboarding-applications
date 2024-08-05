@@ -12,8 +12,8 @@
   "attributes": {
     "Provider": "Dataloop",
     "Category": "Onboarding",
-    "Onboarding Category": "Annotation Platform",
-    "Onboarding Card": "Annotation Tools",
+    "Onboarding Tab": "Annotation Platform",
+    "Onboarding Card": "Annotation Workflow",
     "Media Type": ["Text"]
   },
   "metadata": {
