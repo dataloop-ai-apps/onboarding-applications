@@ -1,0 +1,30 @@
+{
+  "displayName": "Annotation Workflow Demo 2",
+  "name": "annotation-workflow-demo2",
+  "description": "This Onboarding App will help to get familiar with the fundamental functionalities of an annotation workflow that includes preprocessing stage, in Dataloop platform.",
+  "scope": "public",
+  "version": "1.0.10",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.10"
+  },
+  "attributes": {
+    "Provider": "Dataloop",
+    "Category": "Onboarding",
+    "Onboarding Tab": "Annotation Platform",
+    "Onboarding Card": "Annotation Workflow",
+    "Pipeline Type": "Labeling Workflow",
+    "Media Type": ["All Media Types"]
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "preprocess_annotation_workflow"
+    }
+  ]
+}
