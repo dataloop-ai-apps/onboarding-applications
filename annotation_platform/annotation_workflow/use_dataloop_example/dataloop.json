@@ -1,6 +1,6 @@
 {
-  "displayName": "Annotation Workflow Demo 4",
-  "name": "annotation-workflow-demo4",
+  "displayName": "Annotation Tool Demo 1",
+  "name": "annotation-tool-demo1",
   "description": "This Onboarding App will help to get familiar with the fundamental functionalities of an annotation workflow specifically for text, in Dataloop platform.",
   "scope": "public",
   "version": "1.0.11",
@@ -13,7 +13,7 @@
     "Provider": "Dataloop",
     "Category": "Onboarding",
     "Onboarding Tab": "Annotation Platform",
-    "Onboarding Card": "Annotation Workflow"
+    "Onboarding Card": "Annotation Tool"
   },
   "metadata": {
     "system": {
