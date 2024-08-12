@@ -1,0 +1,30 @@
+{
+  "displayName": "Annotation Workflow Demo 3",
+  "name": "annotation-workflow-demo3",
+  "description": "This Onboarding App will help to get familiar with the fundamental functionalities of an annotation workflow specifically for text, in Dataloop platform.",
+  "scope": "public",
+  "version": "1.0.12",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.12"
+  },
+  "attributes": {
+    "Provider": "Dataloop",
+    "Category": "Onboarding",
+    "Onboarding Tab": "Annotation Platform",
+    "Onboarding Card": "Annotation Workflow",
+    "Pipeline Type": "Labeling Workflow",
+    "Media Type": ["Text"]
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "text_annotation_workflow"
+    }
+  ]
+}

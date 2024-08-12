@@ -1,7 +1,7 @@
 {
-  "displayName": "Data Management Demo",
-  "name": "data-management-demo",
-  "description": "A general images dataset to get you familiarized with Dataloop's powerful data-management tools, including embeddings, query language, folders, versioning and more",
+  "displayName": "Annotation Tools Demo 1",
+  "name": "annotation-tools-demo1",
+  "description": "This Onboarding App will help to get familiar with the fundamental functionalities of an annotation workflow specifically for text, in Dataloop platform.",
   "scope": "public",
   "version": "1.0.12",
   "codebase": {
@@ -12,10 +12,8 @@
   "attributes": {
     "Provider": "Dataloop",
     "Category": "Onboarding",
-    "Onboarding Tab": "Data Management",
-    "Onboarding Card": "Use Dataloop Example",
-    "Media Type": "Image",
-    "Annotation Type": "Bounding Box"
+    "Onboarding Tab": "Annotation Platform",
+    "Onboarding Card": "Annotation Tools"
   },
   "metadata": {
     "system": {
