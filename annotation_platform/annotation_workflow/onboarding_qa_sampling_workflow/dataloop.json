@@ -3,11 +3,11 @@
   "name": "onboarding-qa-sampling-workflow",
   "description": "This app manages a two-stage labeling processing workflow. It first directs data to a labeling task, then splits the labeled data, sending a portion to QA for verification and refinement.",
   "scope": "public",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.14"
+    "gitTag": "1.0.15"
   },
   "attributes": {
     "Provider": "Dataloop",
