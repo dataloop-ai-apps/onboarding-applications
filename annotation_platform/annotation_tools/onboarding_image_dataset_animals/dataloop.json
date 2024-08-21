@@ -1,0 +1,30 @@
+{
+  "displayName": "Image Dataset",
+  "name": "onboarding-image-dataset-animals",
+  "description": "Installing this app will download a demo dataset of images into your project. This demo will guide you through Dataloop Image Studio, where you can quickly learn to annotate images with ease and discover the annotation tools available.",
+  "scope": "public",
+  "version": "1.0.12",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.12"
+  },
+  "attributes": {
+    "Provider": "Dataloop",
+    "Category": "Onboarding",
+    "Onboarding Tab": "Annotation Platform",
+    "Onboarding Card": "Annotation Tools",
+    "Media Type": ["Image"],
+    "Annotation Type": ["Bounding Box", "Classification"]
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "dataset-images-animals"
+    }
+  ]
+}
