@@ -1,6 +1,6 @@
 {
   "displayName": "Image Dataset",
-  "name": "onboarding-image-dataset-animals",
+  "name": "onboarding-image-dataset-animals-ann",
   "description": "Installing this app will download a demo dataset of images into your project. This demo will guide you through Dataloop Image Studio, where you can quickly learn to annotate images with ease and discover the annotation tools available.",
   "scope": "public",
   "version": "1.0.13",
