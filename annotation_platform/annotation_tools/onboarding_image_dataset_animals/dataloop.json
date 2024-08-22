@@ -15,7 +15,11 @@
     "Onboarding Tab": "Annotation Platform",
     "Onboarding Card": "Annotation Tools",
     "Media Type": ["Image"],
-    "Annotation Type": ["Bounding Box", "Classification"]
+    "Annotation Type": [
+      "Bounding Box",
+      "Classification",
+      "Semantic Segmentation"
+    ]
   },
   "metadata": {
     "system": {
@@ -24,7 +28,7 @@
   },
   "dependencies": [
     {
-      "name": "dataset-images-animals"
+      "name": "dataset-images-animals-ann"
     }
   ]
 }
