@@ -3,11 +3,11 @@
   "name": "onboarding-preprocess-annotation-workflow",
   "description": "This app creates a customized pipeline for data annotation. It combines preprocessing options with labeling task to enhance the data preparation process for AI projects.",
   "scope": "public",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.19"
+    "gitTag": "1.0.20"
   },
   "attributes": {
     "Provider": "Dataloop",
