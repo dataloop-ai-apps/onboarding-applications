@@ -1,7 +1,7 @@
 {
   "displayName": "QA Sampling Workflow Template",
   "name": "onboarding-qa-sampling-workflow",
-  "description": "This app manages a two-stage labeling processing workflow. It first directs data to a labeling task, then splits the labeled data, sending a portion to QA for verification and refinement.",
+  "description": "Create annotation and a QA tasks for a chosen Dataset.",
   "scope": "public",
   "version": "1.0.21",
   "codebase": {
@@ -10,13 +10,14 @@
     "gitTag": "1.0.21"
   },
   "attributes": {
-    "Provider": "Dataloop",
     "Category": "Onboarding",
-    "Onboarding Tab": "Annotation Platform",
-    "Onboarding Card": "Annotation Workflow",
+    "Onboarding Tab": "Pipelines",
+    "Onboarding Card": "Pipeline template",
     "Pipeline Type": "Labeling Workflow",
+    "Provider": "Dataloop",
     "Media Type": ["All Media Types"]
   },
+
   "metadata": {
     "system": {
       "systemCompute": true

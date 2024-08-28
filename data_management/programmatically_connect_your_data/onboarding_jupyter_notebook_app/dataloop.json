@@ -1,5 +1,5 @@
 {
-  "displayName": "Jupyter Notebook App",
+  "displayName": "Jupyter Notebook",
   "name": "onboarding-jupyter-notebook-app",
   "description": "This notebook guides you through the process of managing datasets in Dataloop, a platform for data management and annotation. You will learn how to create datasets, integrate them with cloud storage, and perform essential data management tasks. The notebook includes practical code examples and instructions to help you get started with using Dataloop's dataset management features efficiently.",
   "scope": "public",

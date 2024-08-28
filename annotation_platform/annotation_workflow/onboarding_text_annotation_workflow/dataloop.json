@@ -1,5 +1,5 @@
 {
-  "displayName": "Text Annotation Workflow",
+  "displayName": "Text Annotation Workflow Template",
   "name": "onboarding-text-annotation-workflow",
   "description": "This App creates a pipeline that preprocesses text using LangChain and Unstructured IO.  It constructs a workflow for preparing raw text and than creates a labeling task for NLP and text analysis projects.",
   "scope": "public",

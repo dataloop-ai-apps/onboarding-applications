@@ -1,5 +1,5 @@
 {
-  "displayName": "Preprocess Annotation Workflow",
+  "displayName": "Preprocess Annotation Workflow Template",
   "name": "onboarding-preprocess-annotation-workflow",
   "description": "This app creates a customized pipeline for data annotation. It combines preprocessing options with labeling task to enhance the data preparation process for AI projects.",
   "scope": "public",
