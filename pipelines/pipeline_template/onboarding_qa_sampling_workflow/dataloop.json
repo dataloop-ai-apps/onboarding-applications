@@ -1,6 +1,6 @@
 {
-  "displayName": "QA Sampling Workflow Template",
-  "name": "onboarding-qa-sampling-workflow",
+  "displayName": "QA Sampling Pipeline Template",
+  "name": "pt-onboarding-qa-sampling-workflow",
   "description": "Create annotation and a QA tasks for a chosen Dataset.",
   "scope": "public",
   "version": "1.0.23",

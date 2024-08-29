@@ -1,6 +1,6 @@
 {
-  "displayName": "Micro-Task Workflow Template",
-  "name": "onboarding-micro-tasks-template",
+  "displayName": "Micro-Task Pipeline Template",
+  "name": "pt-onboarding-micro-tasks-template",
   "description": "Create multiple annotation tasks and QA tasks for any uploaded item.",
   "scope": "public",
   "version": "1.0.23",

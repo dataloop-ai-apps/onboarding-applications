@@ -1,6 +1,6 @@
 {
-  "displayName": "PDF Preprocessing Workflow Template",
-  "name": "onboarding-pdf-to-clean-text-template",
+  "displayName": "PDF Preprocessing Pipeline Template",
+  "name": "pt-onboarding-pdf-to-clean-text-template",
   "description": "Automate the process of preprocess pdf files by extracting to text and clean using unstructured-io library.",
   "scope": "public",
   "version": "1.0.23",

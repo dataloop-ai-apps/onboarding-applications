@@ -1,6 +1,6 @@
 {
-  "displayName": "Smart Tiling Workflow Template",
-  "name": "onboarding-smart-tiling-template",
+  "displayName": "Smart Tiling Pipeline Template",
+  "name": "pt-onboarding-smart-tiling-template",
   "description": "Smart Tiling pipeline template to tile image to tiles and merge. Used for high-resolution images.",
   "scope": "public",
   "version": "1.0.23",
