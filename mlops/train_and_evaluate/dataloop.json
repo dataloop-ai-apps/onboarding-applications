@@ -3,11 +3,11 @@
     "name": "onboarding-train-and-evaluate",
     "description": "An agriculture dataset with train models and metrics, ready for training and evaluating",
     "scope": "public",
-    "version": "1.0.25",
+    "version": "1.0.26",
     "codebase": {
         "type": "git",
         "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-        "gitTag": "1.0.25"
+        "gitTag": "1.0.26"
     },
     "attributes": {
         "Provider": "Dataloop",

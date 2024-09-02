@@ -3,11 +3,11 @@
   "name": "onboarding-jupyter-notebook-app-mlops",
   "description": "This notebook guides you through the process of ...",
   "scope": "public",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.25"
+    "gitTag": "1.0.26"
   },
   "attributes": {
     "Provider": "Dataloop",
