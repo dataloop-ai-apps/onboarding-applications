@@ -1,0 +1,29 @@
+{
+  "displayName": "Jupyter Notebook for Pipelines",
+  "name": "onboarding-jupyter-notebook-app-pipeline",
+  "description": "This notebook guides you through the process of ...",
+  "scope": "public",
+  "version": "1.0.24",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.24"
+  },
+  "attributes": {
+    "Provider": "Dataloop",
+    "Category": "Onboarding",
+    "Onboarding Tab": "Pipelines",
+    "Onboarding Card": "Programmatically Connect Your Data",
+    "Media Type": ["All Media Types"]
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "jupyter-notebook-onboarding"
+    }
+  ]
+}
