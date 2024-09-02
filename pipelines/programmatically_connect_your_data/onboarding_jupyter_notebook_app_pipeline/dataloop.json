@@ -13,7 +13,7 @@
     "Provider": "Dataloop",
     "Category": "Onboarding",
     "Onboarding Tab": "Pipelines",
-    "Onboarding Card": "Programmatically Connect Your Data",
+    "Onboarding Card": "Programmatically Create a Pipeline",
     "Media Type": ["All Media Types"]
   },
   "metadata": {
