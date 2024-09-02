@@ -3,11 +3,11 @@
   "name": "onboarding-jupyter-notebook-app-ap",
   "description": "This notebook guides you through the process of ...",
   "scope": "public",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.24"
+    "gitTag": "1.0.25"
   },
   "attributes": {
     "Provider": "Dataloop",
