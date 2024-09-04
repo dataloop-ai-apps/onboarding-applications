@@ -1,0 +1,29 @@
+{
+  "displayName": "RAG Based LLM",
+  "name": "rag-based-llm",
+  "description": "Pipeline template for RAG based LLM",
+  "scope": "public",
+  "version": "1.0.27",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.27"
+  },
+  "attributes": {
+    "Provider": "Dataloop",
+    "Category": "Onboarding",
+    "Onboarding Tab": "GenAI",
+    "Onboarding Card": "RAG Based LLM",
+    "Media Type": ["Text"]
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "rag-template"
+    }
+  ]
+}
