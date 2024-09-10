@@ -1,7 +1,7 @@
 {
   "displayName": "Active Learning Pipeline",
-  "name": "active-learn-pip-onboarding",
-  "description": "Pipeline template for Active learning pipeline",
+  "name": "active-learning-onboarding",
+  "description": "Active learning is a method in machine learning that selects more informative data points to label, prioritizing those that would provide the most valuable information. By selectively labeling only informative examples, active learning helps improve learning process efficiency to achieve high accuracy with fewer labeled samples.",
   "scope": "public",
   "version": "1.0.30",
   "codebase": {
@@ -22,7 +22,7 @@
   },
   "dependencies": [
     {
-      "name": "rag-template"
+      "name": "active-learning"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "displayName": "Jupyter Notebook for MLOps",
   "name": "onboarding-jupyter-notebook-app-mlops",
-  "description": "This notebook guides you through the process of ...",
+  "description": "This notebook demonstrates how to install a dataset and model from a DPK in Dataloop, clone and train the model, and perform predictions and evaluations. Key steps include deploying the model, adding training/validation filters, and running training. Finally, the trained model is used for prediction and evaluation on a specific dataset.",
   "scope": "public",
   "version": "1.0.30",
   "codebase": {
