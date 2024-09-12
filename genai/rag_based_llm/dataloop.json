@@ -1,7 +1,7 @@
 {
-  "displayName": "RAG Based LLM",
+  "displayName": "RAG Based LLM Template",
   "name": "rag-based-llm",
-  "description": "Pipeline template for RAG based LLM",
+  "description": "This RAG template uses OpenAI's text embedder for query embedding, retrieves relevant documents, and leverages ChatGPT to generate accurate, context-based responses.",
   "scope": "public",
   "version": "1.0.30",
   "codebase": {
