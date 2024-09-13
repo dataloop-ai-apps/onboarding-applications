@@ -1,0 +1,30 @@
+{
+  "displayName": "Pre-annotation Workflow Template",
+  "name": "pt-pre-annotation-pipeline",
+  "description": "Utilize pre-trained models to generate pre-annotations and validate them against the task requirements.",
+  "scope": "public",
+  "version": "1.0.31",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.31"
+  },
+  "attributes": {
+    "Category": "Onboarding",
+    "Onboarding Tab": "Pipelines",
+    "Onboarding Card": "Pipeline template",
+    "Pipeline Type": "Labeling Workflow",
+    "Provider": "Dataloop",
+    "Media Type": ["All Media Types"]
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "pre-annotation-pipeline"
+    }
+  ]
+}

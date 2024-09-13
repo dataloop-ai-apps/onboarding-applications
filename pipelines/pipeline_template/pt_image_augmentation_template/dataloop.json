@@ -1,0 +1,30 @@
+{
+  "displayName": "Image Augmentation Template",
+  "name": "pt-image-augmentation-template",
+  "description": "Automate the preprocessing of images with image augmentations.",
+  "scope": "public",
+  "version": "1.0.31",
+  "codebase": {
+    "type": "git",
+    "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
+    "gitTag": "1.0.31"
+  },
+  "attributes": {
+    "Category": "Onboarding",
+    "Onboarding Tab": "Pipelines",
+    "Onboarding Card": "Pipeline template",
+    "Pipeline Type": "Data Engineering",
+    "Provider": "Dataloop",
+    "Media Type": ["Image"]
+  },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
+  "dependencies": [
+    {
+      "name": "image-augmentation-template"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "displayName": "Transcripted Pytorch Audio Dataset",
-  "name": "pytorch-librispeech-dataset-dm",
-  "description": "Pytorch Librispeech Dataset contains of first 100 samples of Librispeech dataset with transcriptions.",
+  "displayName": "DanceTrack Video Dataset",
+  "name": "dance-track-dm",
+  "description": "A general videos dataset to get you familiarized with Dataloop's powerful studios.",
   "scope": "public",
   "version": "1.0.31",
   "codebase": {
@@ -10,12 +10,14 @@
     "gitTag": "1.0.31"
   },
   "attributes": {
-    "Provider": "Meta",
     "Category": "Onboarding",
-    "License": "CC BY 4.0",
+    "Hub": "Dataloop",
+    "Provider": "Dataloop",
+    "Media Type": "Video",
+    "License": "MIT License",
     "Onboarding Tab": "Data Management",
     "Onboarding Card": "Use Dataloop Example",
-    "Media Type": ["Audio"]
+    "Annotation Type": ["Bounding Box"]
   },
   "metadata": {
     "system": {
@@ -24,7 +26,7 @@
   },
   "dependencies": [
     {
-      "name": "pytorch-librispeech-dataset"
+      "name": "dance-track"
     }
   ]
 }
