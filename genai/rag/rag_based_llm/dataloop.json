@@ -23,7 +23,7 @@
   },
   "dependencies": [
     {
-      "name": "rag-onboarding-solution"
+      "name": "rag-template-example"
     }
   ]
 }
