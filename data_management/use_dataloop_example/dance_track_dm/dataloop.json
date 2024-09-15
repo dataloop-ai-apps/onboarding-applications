@@ -1,7 +1,7 @@
 {
-  "displayName": "Image Dataset",
-  "name": "onboarding-image-dataset-animals",
-  "description": "A general images dataset to get you familiarized with Dataloop's powerful data-management tools, including embeddings, query language, folders, versioning and more",
+  "displayName": "DanceTrack Video Dataset",
+  "name": "dance-track-dm",
+  "description": "A general videos dataset to get you familiarized with Dataloop's powerful studios.",
   "scope": "public",
   "version": "1.0.32",
   "codebase": {
@@ -10,12 +10,14 @@
     "gitTag": "1.0.32"
   },
   "attributes": {
-    "Provider": "Dataloop",
     "Category": "Onboarding",
+    "Hub": "Dataloop",
+    "Provider": "Dataloop",
+    "Media Type": "Video",
+    "License": "MIT License",
     "Onboarding Tab": "Data Management",
     "Onboarding Card": "Use Dataloop Example",
-    "Media Type": ["Image"],
-    "Annotation Type": ["Bounding Box", "Classification"]
+    "Annotation Type": ["Bounding Box"]
   },
   "metadata": {
     "system": {
@@ -24,7 +26,7 @@
   },
   "dependencies": [
     {
-      "name": "dataset-images-animals"
+      "name": "dance-track"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "displayName": "RAG Based LLM",
+  "displayName": "RAG Based LLM Template",
   "name": "rag-based-llm",
-  "description": "Pipeline template for RAG based LLM",
+  "description": "This RAG template uses OpenAI's text embedder for query embedding, retrieves relevant documents, and leverages ChatGPT to generate accurate, context-based responses.",
   "scope": "public",
-  "version": "1.0.30",
+  "version": "1.0.32",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.30"
+    "gitTag": "1.0.32"
   },
   "attributes": {
     "Provider": "Dataloop",

@@ -1,7 +1,7 @@
 {
-  "displayName": "Image Dataset",
-  "name": "onboarding-image-dataset-animals",
-  "description": "A general images dataset to get you familiarized with Dataloop's powerful data-management tools, including embeddings, query language, folders, versioning and more",
+  "displayName": "Transcripted Pytorch Audio Dataset",
+  "name": "pytorch-librispeech-dataset-dm",
+  "description": "Pytorch Librispeech Dataset contains of first 100 samples of Librispeech dataset with transcriptions.",
   "scope": "public",
   "version": "1.0.32",
   "codebase": {
@@ -10,12 +10,12 @@
     "gitTag": "1.0.32"
   },
   "attributes": {
-    "Provider": "Dataloop",
+    "Provider": "Meta",
     "Category": "Onboarding",
+    "License": "CC BY 4.0",
     "Onboarding Tab": "Data Management",
     "Onboarding Card": "Use Dataloop Example",
-    "Media Type": ["Image"],
-    "Annotation Type": ["Bounding Box", "Classification"]
+    "Media Type": ["Audio"]
   },
   "metadata": {
     "system": {
@@ -24,7 +24,7 @@
   },
   "dependencies": [
     {
-      "name": "dataset-images-animals"
+      "name": "pytorch-librispeech-dataset"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "displayName": "Smart Tiling Pipeline Template",
-  "name": "pt-onboarding-smart-tiling-template",
-  "description": "Smart Tiling pipeline template to tile image to tiles and merge. Used for high-resolution images.",
+  "displayName": "Pre-annotation Workflow Template",
+  "name": "pt-pre-annotation-pipeline",
+  "description": "Utilize pre-trained models to generate pre-annotations and validate them against the task requirements.",
   "scope": "public",
   "version": "1.0.32",
   "codebase": {
@@ -13,11 +13,10 @@
     "Category": "Onboarding",
     "Onboarding Tab": "Pipelines",
     "Onboarding Card": "Pipeline template",
-    "Pipeline Type": "MLOps",
+    "Pipeline Type": "Labeling Workflow",
     "Provider": "Dataloop",
-    "Media Type": ["Image"]
+    "Media Type": ["All Media Types"]
   },
-
   "metadata": {
     "system": {
       "systemCompute": true
@@ -25,7 +24,7 @@
   },
   "dependencies": [
     {
-      "name": "smart-tiling-template"
+      "name": "pre-annotation-pipeline"
     }
   ]
 }

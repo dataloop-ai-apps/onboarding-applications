@@ -1,7 +1,7 @@
 {
-  "displayName": "Micro-Task Pipeline Template",
-  "name": "pt-onboarding-micro-tasks-template",
-  "description": "Create multiple annotation tasks and QA tasks for any uploaded item.",
+  "displayName": "Pre-annotation Workflow Template",
+  "name": "onboarding-pre-annotation-pipeline",
+  "description": "Utilize pre-trained models to generate pre-annotations and validate them against the task requirements.",
   "scope": "public",
   "version": "1.0.32",
   "codebase": {
@@ -11,13 +11,12 @@
   },
   "attributes": {
     "Category": "Onboarding",
-    "Onboarding Tab": "Pipelines",
-    "Onboarding Card": "Pipeline template",
+    "Onboarding Tab": "Annotation Platform",
+    "Onboarding Card": "Annotation Workflow",
     "Pipeline Type": "Labeling Workflow",
     "Provider": "Dataloop",
     "Media Type": ["All Media Types"]
   },
-
   "metadata": {
     "system": {
       "systemCompute": true
@@ -25,7 +24,7 @@
   },
   "dependencies": [
     {
-      "name": "micro-tasks-template"
+      "name": "pre-annotation-pipeline"
     }
   ]
 }

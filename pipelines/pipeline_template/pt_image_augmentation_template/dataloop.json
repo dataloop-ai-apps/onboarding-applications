@@ -1,7 +1,7 @@
 {
-  "displayName": "Smart Tiling Pipeline Template",
-  "name": "pt-onboarding-smart-tiling-template",
-  "description": "Smart Tiling pipeline template to tile image to tiles and merge. Used for high-resolution images.",
+  "displayName": "Image Augmentation Template",
+  "name": "pt-image-augmentation-template",
+  "description": "Automate the preprocessing of images with image augmentations.",
   "scope": "public",
   "version": "1.0.32",
   "codebase": {
@@ -13,11 +13,10 @@
     "Category": "Onboarding",
     "Onboarding Tab": "Pipelines",
     "Onboarding Card": "Pipeline template",
-    "Pipeline Type": "MLOps",
+    "Pipeline Type": "Data Engineering",
     "Provider": "Dataloop",
     "Media Type": ["Image"]
   },
-
   "metadata": {
     "system": {
       "systemCompute": true
@@ -25,7 +24,7 @@
   },
   "dependencies": [
     {
-      "name": "smart-tiling-template"
+      "name": "image-augmentation-template"
     }
   ]
 }
