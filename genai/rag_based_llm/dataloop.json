@@ -23,7 +23,7 @@
   },
   "dependencies": [
     {
-      "name": "rag-template"
+      "name": "rag-template-example"
     }
   ]
 }
