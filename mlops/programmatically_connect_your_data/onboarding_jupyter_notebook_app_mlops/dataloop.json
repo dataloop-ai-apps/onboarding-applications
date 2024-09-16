@@ -24,6 +24,9 @@
   "dependencies": [
     {
       "name": "jupyter-notebook-onboarding"
+    },
+    {
+      "name": "ml-compare-example"
     }
   ]
 }
