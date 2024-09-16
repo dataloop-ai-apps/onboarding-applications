@@ -22,7 +22,7 @@
   },
   "dependencies": [
     {
-      "name": "active-learning"
+      "name": "active-learning-example"
     }
   ]
 }
