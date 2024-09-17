@@ -1,6 +1,6 @@
 {
-  "displayName": "Pre-annotation Workflow Template",
-  "name": "onboarding-pre-annotation-pipeline",
+  "displayName": "Model Pre-annotation Workflow",
+  "name": "onboarding-model-pre-annotation",
   "description": "Utilize pre-trained models to generate pre-annotations and validate them against the task requirements.",
   "scope": "public",
   "version": "1.0.32",
@@ -24,7 +24,7 @@
   },
   "dependencies": [
     {
-      "name": "pre-annotation-pipeline"
+      "name": "model-pre-annotation-workflow"
     }
   ]
 }
