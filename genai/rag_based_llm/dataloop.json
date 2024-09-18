@@ -3,11 +3,11 @@
   "name": "rag-based-llm",
   "description": "This RAG template uses OpenAI's text embedder for query embedding, retrieves relevant documents, and leverages ChatGPT to generate accurate, context-based responses.",
   "scope": "public",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.37"
+    "gitTag": "1.0.38"
   },
   "attributes": {
     "Provider": "Dataloop",

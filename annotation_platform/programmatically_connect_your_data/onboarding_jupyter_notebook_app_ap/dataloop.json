@@ -3,11 +3,11 @@
   "name": "onboarding-jupyter-notebook-app-ap",
   "description": "This notebook outlines how to create a processing pipeline in Dataloop, combining machine and human tasks. It demonstrates adding dataset, annotation, and QA nodes, connecting them, and setting a trigger for item creation. Finally, the pipeline is installed and triggered by uploading an item.",
   "scope": "public",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.37"
+    "gitTag": "1.0.38"
   },
   "attributes": {
     "Provider": "Dataloop",
