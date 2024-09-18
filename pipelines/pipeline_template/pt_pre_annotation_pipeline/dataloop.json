@@ -3,11 +3,11 @@
   "name": "pt-pre-annotation-pipeline",
   "description": "Utilize pre-trained models to generate pre-annotations and validate them against the task requirements.",
   "scope": "public",
-  "version": "1.0.38",
+  "version": "1.0.39",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.38"
+    "gitTag": "1.0.39"
   },
   "attributes": {
     "Category": "Onboarding",
