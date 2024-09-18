@@ -24,7 +24,7 @@
   },
   "dependencies": [
     {
-      "name": "pre-annotation-pipeline"
+      "name": "model-pre-annotation-workflow"
     }
   ]
 }
