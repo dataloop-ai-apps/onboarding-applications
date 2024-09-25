@@ -24,7 +24,7 @@
   },
   "dependencies": [
     {
-      "name": "image-augmentation-template"
+      "name": "image-augmentation-pipeline"
     }
   ]
 }
