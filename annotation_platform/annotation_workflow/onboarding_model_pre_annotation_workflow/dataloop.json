@@ -1,5 +1,5 @@
 {
-  "displayName": "Model Pre-annotation Workflow",
+  "displayName": "Model Pre-annotation Workflow Template",
   "name": "onboarding-model-pre-annotation",
   "description": "Utilize pre-trained models to generate pre-annotations and validate them against the task requirements.",
   "scope": "public",
@@ -15,7 +15,9 @@
     "Onboarding Card": "Annotation Workflow",
     "Pipeline Type": "Labeling Workflow",
     "Provider": "Dataloop",
-    "Media Type": ["All Media Types"]
+    "Media Type": [
+      "All Media Types"
+    ]
   },
   "metadata": {
     "system": {
