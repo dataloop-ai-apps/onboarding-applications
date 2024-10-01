@@ -23,7 +23,7 @@
   },
   "dependencies": [
     {
-      "name": "rag-template-solution-recipes"
+      "name": "rag-solution-openai-recipes"
     }
   ]
 }
