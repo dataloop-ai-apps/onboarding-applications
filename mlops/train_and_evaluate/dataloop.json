@@ -28,7 +28,7 @@
     },
     "dependencies": [
         {
-            "name": "ml-compare-example"
+            "name": "ml-compare-solution"
         }
     ]
 }
