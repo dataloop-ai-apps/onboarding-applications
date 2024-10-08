@@ -3,11 +3,11 @@
   "name": "pt-onboarding-pdf-to-clean-text-template",
   "description": "Automate the process of preprocess pdf files by extracting to text and clean using unstructured-io library.",
   "scope": "public",
-  "version": "1.0.45",
+  "version": "1.0.46",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.45"
+    "gitTag": "1.0.46"
   },
   "attributes": {
     "Category": "Onboarding",

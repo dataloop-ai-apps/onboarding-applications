@@ -3,11 +3,11 @@
   "name": "onboarding-jupyter-notebook-app",
   "description": "This notebook guides you through the process of managing datasets in Dataloop, a platform for data management and annotation. You will learn how to create datasets, integrate them with cloud storage, and perform essential data management tasks. The notebook includes practical code examples and instructions to help you get started with using Dataloop's dataset management features efficiently.",
   "scope": "public",
-  "version": "1.0.45",
+  "version": "1.0.46",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.45"
+    "gitTag": "1.0.46"
   },
   "attributes": {
     "Provider": "Dataloop",
