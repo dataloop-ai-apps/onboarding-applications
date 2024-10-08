@@ -3,11 +3,11 @@
   "name": "onboarding-jupyter-notebook-app-pipeline",
   "description": "This notebook demonstrates how to create and manage a pipeline in Dataloop, which is a collection of functions and tasks for processing data. It covers creating a pipeline, adding dataset, annotation, and QA task nodes, connecting the nodes, setting triggers, and installing the pipeline. Finally, the pipeline is triggered by uploading an item to the dataset.",
   "scope": "public",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.46"
+    "gitTag": "1.0.47"
   },
   "attributes": {
     "Provider": "Dataloop",
