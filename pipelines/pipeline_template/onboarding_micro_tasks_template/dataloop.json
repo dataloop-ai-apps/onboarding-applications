@@ -3,11 +3,11 @@
   "name": "pt-onboarding-micro-tasks-template",
   "description": "Create multiple annotation tasks and QA tasks for any uploaded item.",
   "scope": "public",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.47"
+    "gitTag": "1.0.48"
   },
   "attributes": {
     "Category": "Onboarding",

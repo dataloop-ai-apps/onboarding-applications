@@ -3,11 +3,11 @@
   "name": "pt-onboarding-qa-sampling-workflow",
   "description": "Create annotation and a QA tasks for a chosen Dataset.",
   "scope": "public",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.47"
+    "gitTag": "1.0.48"
   },
   "attributes": {
     "Category": "Onboarding",

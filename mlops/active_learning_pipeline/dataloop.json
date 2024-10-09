@@ -3,11 +3,11 @@
   "name": "active-learning-onboarding",
   "description": "Active learning is a method in machine learning that selects more informative data points to label, prioritizing those that would provide the most valuable information. By selectively labeling only informative examples, active learning helps improve learning process efficiency to achieve high accuracy with fewer labeled samples.",
   "scope": "public",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.47"
+    "gitTag": "1.0.48"
   },
   "attributes": {
     "Provider": "Dataloop",
