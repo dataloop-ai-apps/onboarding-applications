@@ -27,39 +27,18 @@
       "components": {
         "panels": [
           {
-            "name": "notebooks",
-            "minRole": "annotator",
-            "supportedSlots": [
-              {
-                "type": "floatingWindow",
-                "configuration": {
-                  "layout": {
-                    "width": 700,
-                    "resizable": true,
-                    "backgroundColor": "dl-color-studio-panel",
-                    "onInvoke": true,
-                    "mode": {
-                      "type": "fixed"
-                    }
-                  },
-                  "routes": ["datasetBrowser", "dataManagement", "project"]
-                }
-              }
-            ],
-            "icon": "icon-dl-sdk-documentation",
-            "metadata": {},
-            "defaultSettings": {},
-            "conditions": {}
+            "name": "data"
           }
         ],
         "modules": [
           {
-            "name": "jupyter-notebook-onboarding"
+            "name": "jupyter-notebook-module"
           }
         ],
         "services": [
           {
-            "name": "jupyter-notebook-onboarding"
+            "name": "jupyter-notebook-serv",
+            "panelNames": ["data"]
           }
         ]
       }
