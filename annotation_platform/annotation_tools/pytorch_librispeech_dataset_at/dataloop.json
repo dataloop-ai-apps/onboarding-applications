@@ -1,5 +1,5 @@
 {
-  "displayName": "Transcripted Audio Dataset",
+  "displayName": "Audio Dataset",
   "name": "pytorch-librispeech-dataset-at",
   "description": "Pytorch Librispeech Dataset contains of first 100 samples of Librispeech dataset with transcriptions.",
   "scope": "public",

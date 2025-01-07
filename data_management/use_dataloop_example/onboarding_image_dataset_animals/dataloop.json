@@ -1,5 +1,5 @@
 {
-  "displayName": "Image Dataset",
+  "displayName": "Animal Images",
   "name": "onboarding-image-dataset-animals",
   "description": "A general images dataset to get you familiarized with Dataloop's powerful data-management tools, including embeddings, query language, folders, versioning and more",
   "scope": "public",
