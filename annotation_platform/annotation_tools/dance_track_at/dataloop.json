@@ -1,5 +1,5 @@
 {
-  "displayName": "DanceTrack Dataset",
+  "displayName": "Video Dataset",
   "name": "dance-track-at",
   "description": "A general videos dataset to get you familiarized with Dataloop's powerful studios.",
   "scope": "public",
