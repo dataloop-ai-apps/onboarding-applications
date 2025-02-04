@@ -1,7 +1,7 @@
 {
   "displayName": "Text Dataset",
   "name": "hf-imdb-dataset-onb",
-  "description": "Installing this app will download IMDB dataset from Hugging Face with 25k text labeled with pos or neg. This demo will guide you through Dataloop text Studio, where you can quickly learn to annotate text with ease and discover the annotation tools available.",
+  "description": "Installing this app will download IMDB dataset from Hugging Face with 500 text labeled with pos or neg. This demo will guide you through Dataloop text Studio, where you can quickly learn to annotate text with ease and discover the annotation tools available.",
   "scope": "public",
   "version": "1.0.56",
   "codebase": {
