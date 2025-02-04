@@ -3,11 +3,11 @@
   "name": "hf-imdb-dataset-onb",
   "description": "Installing this app will download IMDB dataset from Hugging Face with 500 text labeled with pos or neg. This demo will guide you through Dataloop text Studio, where you can quickly learn to annotate text with ease and discover the annotation tools available.",
   "scope": "public",
-  "version": "1.0.56",
+  "version": "1.0.57",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.56"
+    "gitTag": "1.0.57"
   },
   "attributes": {
     "Provider": "Dataloop",

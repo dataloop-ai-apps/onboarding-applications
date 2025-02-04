@@ -3,11 +3,11 @@
   "name": "pt-image-augmentation-template",
   "description": "Automate the preprocessing of images with image augmentations.",
   "scope": "public",
-  "version": "1.0.56",
+  "version": "1.0.57",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/onboarding-applications.git",
-    "gitTag": "1.0.56"
+    "gitTag": "1.0.57"
   },
   "attributes": {
     "Category": "Onboarding",
